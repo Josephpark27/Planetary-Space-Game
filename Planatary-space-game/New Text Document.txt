@@ -1,0 +1,2 @@
+javac NBodyExtreme.java
+java NBodyExtreme 157788000.0 25000.0
